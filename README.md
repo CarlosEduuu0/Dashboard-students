@@ -26,3 +26,11 @@ This dashboard is based on a dataset provided by a private educational institute
 ## 💡 Purpose
 
 the main goan of this project is to understand which variables afect the students performace and rotine.
+
+---
+
+## how to run it
+
+- **dowload the zip file**
+- **the std_interface**
+- **now just run it and its done**
