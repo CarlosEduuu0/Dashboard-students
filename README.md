@@ -1,36 +1,66 @@
-# 🎓 Student Dashboard
+# 🎓 Painel de Controle dos Estudantes
 
-This dashboard is based on a dataset provided by a private educational institute. It visualizes and analyzes students' **academic performance**, **daily routines**, and **psychological conditions** to help identify key patterns and support decision-making.
-
----
-
-## 📊 Features
-
-- 🎨 **Theme Color Switching**  
-  Easily toggle between light and dark modes to suit your visual preferences.
-
-- 📈 **Mean Stress Level Overview**  
-  Displays the average stress levels among students, offering insight into their mental well-being.
-
-- 🔍 **Data Filtering Functionality**  
-  Isolate specific data sets based on user-defined parameters for targeted analysis.
-
-- 📉 **Multiple Types of Visualizations**  
-  Includes various charts such as:
-  - **Radar Chart** for performance comparison  
-  - **Bar Graph** for clear quantitative insights  
-  - **sector graph** wich allows you to do an specific visualization
+Este painel é baseado em um conjunto de dados fornecido por uma instituição de ensino privada. Ele visualiza e analisa o **desempenho acadêmico**, **rotinas diárias** e **condições psicológicas** dos estudantes, ajudando a identificar padrões importantes e apoiar a tomada de decisões.
 
 ---
 
-## 💡 Purpose
+## 📊 Funcionalidades
 
-the main goan of this project is to understand which variables afect the students performace and rotine.
+- 🎨 **Troca de Tema (Claro/Escuro)**  
+  Altere facilmente o esquema de cores para se adequar à sua preferência visual.
+
+- 📈 **Visualização do Nível Médio de Estresse**  
+  Mostra os níveis médios de estresse dos alunos, oferecendo uma visão clara do bem-estar psicológico geral.
+
+- 🔍 **Filtragem de Dados**  
+  Permite isolar dados específicos com base em critérios definidos pelo usuário.
+
+- 📉 **Múltiplas Visualizações Gráficas**  
+  Inclui diversos tipos de gráficos:
+  - **Gráfico Radar** para comparação de desempenho
+  - **Gráfico de Barras** para análise quantitativa
+  - **Gráfico de Setores** para visualizações específicas
 
 ---
 
-## how to run it
+## 💡 Objetivo
 
-- **dowload the zip file**
-- **the std_interface**
-- **now just run it and its done**
+O principal objetivo deste projeto é entender quais variáveis afetam o desempenho e a rotina dos estudantes, auxiliando professores e coordenadores a tomarem decisões baseadas em dados.
+
+---
+
+## 🚀 Como Executar
+
+1. **Baixe o arquivo ZIP** deste repositório.
+2. **Extraia os arquivos** e abra a pasta `std_interface`.
+3. **Execute o arquivo principal** (por exemplo, `app.py`, `main.py`, ou similar).
+4. Pronto! O painel estará funcionando.
+
+---
+
+## 📂 Tecnologias Utilizadas
+
+- Python  
+- Streamlit / Dash / Plotly  
+- Pandas  
+- Matplotlib / Seaborn  
+
+---
+
+## 📸 Capturas de Tela
+
+> *(Adicione aqui imagens do seu painel para mostrar como ele funciona visualmente)*
+
+---
+
+## 📬 Contato
+
+Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato!  
+[Seu e-mail ou LinkedIn aqui]
+
+---
+
+## ⚠️ Observações
+
+*O conjunto de dados utilizado é privado e foi fornecido apenas para fins educacionais.*
+
